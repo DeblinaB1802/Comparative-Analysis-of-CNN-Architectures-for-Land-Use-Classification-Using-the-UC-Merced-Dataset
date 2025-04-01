@@ -9,7 +9,7 @@ This project implements and evaluates three popular Convolutional Neural Network
 - **Total Images:** 2,100
 - **Categories:** 21 land use classes (e.g., agricultural, commercial, freeway, golf course, residential, etc.)
 - **Resolution:** 256×256 pixels per image
-- **Train-Test Split:** 80% training, 20% testing
+- **Train-Test Split:** 70% training, 30% testing
 
 ## 🏗️ Model Architectures
 The following CNN architectures were implemented and evaluated:
