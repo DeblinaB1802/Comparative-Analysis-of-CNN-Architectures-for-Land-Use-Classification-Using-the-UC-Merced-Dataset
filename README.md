@@ -1,5 +1,4 @@
 # Comparative-Analysis-of-CNN-Architectures-for-Land-Use-Classification-Using-the-UC-Merced-Dataset
-# UCMerced Land Use Classification with CNNs
 
 ## 📌 Project Overview
 This project implements and evaluates three popular Convolutional Neural Networks (CNNs)—GoogleNet, VGG-19, and ResNet-50—for land use classification using the **UCMerced Land Use dataset**. The objective is to compare their performance in terms of classification accuracy and identify the most effective architecture for this task.
